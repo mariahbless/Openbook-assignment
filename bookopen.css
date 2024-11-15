@@ -1,0 +1,44 @@
+h2{
+    position: sticky;
+    border: 5px solid blue;
+    background-color: lightskyblue;
+    color: blue;
+    top: 10px;
+    text-shadow:1px 1px wheat;
+}
+h1{
+    color: black;
+}
+p{
+    
+    font-style:normal;
+    font-size: x-large;
+    color:purple;
+}
+
+body{
+    background-image: url(./sun\ 4.jpg);
+    background-size: cover;
+}
+li{
+    text-shadow: 1px 1px lime; 
+    text-align: left;
+    font-weight: bold;
+    
+}
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background:deeppink;
+    font-weight: bold;
+    margin-top: 20px;
+    color: wheat;
+    border: 5px solid palevioletred;
+}
+.title{
+    font-style: italic;
+    font-weight: bolder;
+    color: blue;
+    
+}
